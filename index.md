@@ -6,3 +6,4 @@ Welcome to my project portfolio. Here you'll find a selection of individual and 
 
 ## Collaborative Projects 
 
+### Created and maintained by Arin Rahim.
