@@ -6,15 +6,13 @@ The analysis aims to understand how Bonmatí contributes to her team's attacking
 
 ## Folder Contents 
 
-- Plotting_Action.ipynb: Jupyter notebook file for performing the full analysis, including xT computation, player filtering, and plotting. 
-
-- StatsBomb: A folder containing event data across different seasons and leagues. Includes its own README file for more details. 
-
- - xT_Grid.csv: The expected threat grid used to compute the players threat values from player actions based on field location. 
-
- - requirements.txt: Required Python packages for running the notebook. 
+- Plotting_Action.ipynb: Jupyter notebook file for performing the full analysis, including xT computation, player filtering, and plotting.
+  
+- xT_Grid.csv: The expected threat grid used to compute the players threat values from player actions based on field location.
+  
+- requirements.txt: Required Python packages for running the notebook. 
 
 ## Tools and Libraries 
 - Python 3.10.4
-- Statsbomb open event data 
+- [Statsbomb open event data](https://github.com/statsbomb/open-data)
 - Expected Threat model by [Karun Singh](https://karun.in/blog/expected-threat.html) 
