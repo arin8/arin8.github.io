@@ -4,5 +4,5 @@ This repository contains a collection of projects focused on machine learning, f
 
 ## Projects 
 
-### About 
+### About  
 Created and maintained by Arin Rahim. For more details, visit my [GitHub Profile](https://github.com/arin8).
