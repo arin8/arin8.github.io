@@ -11,7 +11,7 @@ The model achieved an accuracy of 87-88% on the test set, indicating strong perf
 - requirements.txt: Required Python packages for running the python script.
 
 # Tools and libraries 
-- Python 3.10.4
-- [Wyscout data](https://github.com/koenvo/wyscout-soccer-match-event-dataset)
+- Python 3.10.4.
+- [Wyscout data](https://github.com/koenvo/wyscout-soccer-match-event-dataset).
 - Numpy, Pandas, SKlearn.
 
