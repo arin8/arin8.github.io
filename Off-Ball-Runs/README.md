@@ -1,5 +1,5 @@
 # Off Ball Runs
-In this project, Inter player **Nicoló Barella's** runs in defensive and offensive possessions in the **2023 UEFA Champios League final** were analysed using vector representation and directional statistics. Focus was also placed on identifying attacking runs that increased expected goals (xG). The analysis revealed key movement patterns and tactical tendencies that characterized Barella's role throughout the match. 
+In this project, Inter player **Nicoló Barella's** runs in defensive and offensive possessions in the **2023 UEFA Champios League final** are analyzed using vector representation and directional statistics. Focus is also placed on identifying attacking runs that increase expected goals (xG). The analysis reveals key movement patterns and tactical tendencies that characterized Barella's role throughout the match. 
 
 # Folder Contents 
 - Off_ball_runs.ipynb: Jupyter notebook file with statistical computing and plots.
