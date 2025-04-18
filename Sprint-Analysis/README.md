@@ -6,7 +6,7 @@ The outcome of the analysis reavled that total distance covered significantly de
 # Folder Contents
 - iig700.ipynb: Jupyter notebook file with player filtering and analysis.
   
-- Projektarbete_IIG700_VT25_Arin_Rahim (SWE): The report presents the final analysis, where methods and results were discuessed.
+- Projektarbete_IIG700_VT25_Arin_Rahim (SWE): The report presents the final analysis, where methods and results were discussed.
   
 - requirements.txt: Required Python packages for running the python script.
 
