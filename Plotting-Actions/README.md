@@ -17,4 +17,5 @@ The analysis aims to understand how Bonmatí contributes to her team's attacking
 ## Tools and Libraries 
 - Python 3.10.4
 - [Statsbomb open event data](https://github.com/statsbomb/open-data)
-- Expected Threat model by [Karun Singh](https://karun.in/blog/expected-threat.html) 
+- Expected Threat model by [Karun Singh](https://karun.in/blog/expected-threat.html)
+- Pandas, Mplsoccer, Matplotlib. 
