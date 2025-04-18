@@ -8,7 +8,7 @@ The model achieved an accuracy of 87-88% on the test set, indicating strong perf
   
 - Assignment_2_Evaluation_player.pdf: Text document with a short evaluation of the result and a more detailed explanation of the model.
   
-- requirements.txt : requirements.txt: Required Python packages for running the python script.
+- requirements.txt: Required Python packages for running the python script.
 
 # Tools and libraries 
 - Python 3.10.4
