@@ -9,7 +9,7 @@ Welcome to my project portfolio. Here you'll find a selection of individual and 
 - [Evaluating Player - Predicting xPA for Midfielders in European Top 5 Leagues](https://github.com/arin8/arin8.github.io/tree/main/Evaluating-Player):
   Analysis of passing ability of all the midfielders in the top five European first divisions using logistic regression. ⚽️
 
-- [Off Ball Runs - Movement analysis of Nicolós Barella](https://github.com/arin8/arin8.github.io/tree/main/Off-Ball-Runs): Offensive and defensive movement analysis of Nicoló Barella's runs in the UEFA Champions League 2023. 🏃‍♂️
+- [Off Ball Runs - Movement analysis of Nicolós Barella](https://github.com/arin8/arin8.github.io/tree/main/Off-Ball-Runs): Offensive and defensive movement analysis of Nicoló Barella's runs in the UEFA Champions League final 2023. 🏃‍♂️
 
 
 
