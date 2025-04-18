@@ -8,6 +8,8 @@ The analysis aims to understand how Bonmatí contributes to her team's attacking
 
 - Plotting_Action.ipynb: Jupyter notebook file for performing the full analysis, including xT computation, player filtering, and plotting.
   
+- Assignment_1_Plotting_Action_Arin_Rahim.pdf: A two page report of the analysis. 
+  
 - xT_Grid.csv: The expected threat grid used to compute the players threat values from player actions based on field location.
   
 - requirements.txt: Required Python packages for running the notebook. 
