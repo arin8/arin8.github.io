@@ -10,5 +10,5 @@ In this project, Inter player Nicoló Barella's runs in defensive and offensive 
 
 # Tools and Libraries 
 - Python 3.10.4.
-  
-- [Off Ball Runs Data](https://github.com/twelvefootball/twelve-respovision-CL-final). 
+- [Off Ball Runs Data](https://github.com/twelvefootball/twelve-respovision-CL-final).
+- Numpy, Matplotlib, Mplsoccer, Pandas. 
