@@ -13,4 +13,5 @@ The model achieved an accuracy of 87-88% on the test set, indicating strong perf
 # Tools and libraries 
 - Python 3.10.4
 - [Wyscout data](https://github.com/koenvo/wyscout-soccer-match-event-dataset)
+- Numpy, Pandas, SKlearn.
 
