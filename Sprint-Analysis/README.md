@@ -8,7 +8,7 @@ The outcome of the analysis reavled that total distance covered significantly de
   
 - Projektarbete_IIG700_VT25_Arin_Rahim (SWE): The report presents the final analysis, where methods and results were discussed.
   
-- requirements.txt: Required Python packages for running the python script.
+- requirements.txt: Required Python packages for running the jupyter notebook.
 
 # Tools and libraries 
 - Python 3.12.9
