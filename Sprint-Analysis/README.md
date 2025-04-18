@@ -11,6 +11,6 @@ The outcome of the analysis reavled that total distance covered significantly de
 - requirements.txt: Required Python packages for running the jupyter notebook.
 
 # Tools and libraries 
-- Python 3.12.9
+- Python 3.12.9.
 - [Off Ball Runs Data](https://github.com/twelvefootball/twelve-respovision-CL-final).
-- Numpy, Pandas, Matplotlib
+- Numpy, Pandas, Matplotlib.
