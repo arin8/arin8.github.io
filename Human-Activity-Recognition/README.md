@@ -15,7 +15,7 @@ The Random Forest model achieved an accuracy of 94%, while the Gradient Boosting
 - requirements.txt: Python packages required to run the project.
 
 # Tools and Libraries 
-Python 3.10.4.
-[Har70 Data](https://archive.ics.uci.edu/dataset/780/har70)
-[MHealth Data](https://archive.ics.uci.edu/dataset/319/mhealth+dataset)
-Numpy, Matplotlib, Seaborn, SKlearn, Pandas. 
+- Python 3.10.4.
+- [Har70 Data](https://archive.ics.uci.edu/dataset/780/har70)
+- [MHealth Data](https://archive.ics.uci.edu/dataset/319/mhealth+dataset)
+- Numpy, Matplotlib, Seaborn, SKlearn, Pandas. 
