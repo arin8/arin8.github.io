@@ -14,6 +14,8 @@ Welcome to my project portfolio. Here you'll find a selection of individual and 
 - **(SWE)** [Sprint Analysis - From Physical and Tactical Perspectives](https://github.com/arin8/arin8.github.io/tree/main/Sprint-Analysis): A practical analysis of anaerobic and aerobic capacity, as well as the Integrated view of Factors, and how these influence Inter's performance in the 2023 UEFA Champions League final.
   
 - [Human Activity Recognition - Predicting Activites with Machine Learning](https://github.com/arin8/arin8.github.io/tree/main/Human-Activity-Recognition): Utilizing Random Forest and Gradient Boosting with wearable sensor data to predict different human activites.
+  
+- [Fall Detection - Detect Preimpacts with Neural Networks](
 
 ## Collaborative Projects 
 
