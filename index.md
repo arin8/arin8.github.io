@@ -15,7 +15,7 @@ Welcome to my project portfolio. Here you'll find a selection of individual and 
   
 - [Human Activity Recognition - Predicting Activites with Machine Learning](https://github.com/arin8/arin8.github.io/tree/main/Human-Activity-Recognition): Utilizing Random Forest and Gradient Boosting with wearable sensor data to predict different human activites.
   
-- [Fall Detection - Detect Preimpacts with Neural Networks](https://github.com/arin8/arin8.github.io/tree/main/Fall-Detection): Using LSTM-based neural network models to detect preimpacts from wearable inertial sensors data. 
+- [Fall Detection - Detecting Preimpacts with Neural Networks](https://github.com/arin8/arin8.github.io/tree/main/Fall-Detection): Using LSTM-based neural network models to detect preimpacts from wearable inertial sensors data. 
 
 ## Collaborative Projects 
 
