@@ -4,13 +4,13 @@ In this project, sensor data from wearable devices is used to classify human act
 The Random Forest model achieved an accuracy of 94%, while the Gradient Boosting model reached 91% accuracy on the test set. A minimal set of four features — specifically the X and Z axes of sensors placed on the back and thigh — were found to predict activities with 84-86% accuracy. 
 
 # Folder Contents 
-- gradient_model.py & randomforest_model.py: Contain implementations of the respective models.
+- models: Contain implementations of the respective models.
   
 - apply_window.py: Applies a sliding window to the sensor data to segment time-series data.
   
 - one_df.py & all_data.py: Handle the merging and formatting of the dataset.
   
-- plots: Folder containing plots like violinplot, heatmap, and frecuancy of lables.
+- plots: Contain plots like violinplot, heatmap, and frecuancy of lables.
   
 - assignment2.ipynb: The projects jupyter notebook file.
   
