@@ -6,9 +6,7 @@ The Random Forest model achieved an accuracy of 94%, while the Gradient Boosting
 # Folder Contents 
 - models: Contain implementations of the respective models.
   
-- apply_window.py: Applies a sliding window to the sensor data to segment time-series data.
-  
-- one_df.py & all_data.py: Handle the merging and formatting of the dataset.
+- processes: Contain python scripts to handle the merging and formatting of the dataset and apply sliding window to the sensor data to segment time-series data.
   
 - plots: Contain plots like violinplot, heatmap, and frecuancy of lables.
   
