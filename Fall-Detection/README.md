@@ -1,5 +1,5 @@
 # Fall Detection
-In this project, LSTM-based neural network models are developed to detect falls from sensor data, with a focus on balancing accuracy and training efficency. The first model uses a simple two-layer LSTM architecture trained over 10 epoches with batch size 32. It achieved a test accuracy of 98% with a test loss of 0.044. 
+In this project, **LSTM-based neural network** models are developed to detect falls from wearable inertial sensors data, with a focus on balancing accuracy and training efficency. The first model uses a simple two-layer LSTM architecture trained over 10 epoches with batch size 32. It achieved a test accuracy of 98% with a test loss of 0.044. 
 
 The second model introduces a deeper architecture by increasing the batch size to 64 for faster learning, and with early stopping to avoid overfitting. The model achieved a test accruacy of 98% as well but an increase in test loss to 0.049. 
 
