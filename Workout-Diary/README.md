@@ -3,7 +3,7 @@ Workout Diary is a digital fitness diary that allows users to design custom work
 
 Currently, the application lacks several desired features that would significantly enchance its useability. Feature implementations could include connecting to a database for presistant workout data storage, integrating compatibility with wearable sensors, refining the user interface, using machine learning algorithms to personalize workout recommendations, and introduce a goal-setting system to support user motivation. 
 
-Contributors: Mathias Olsson @matte1010
+Contributors: Mathias Olsson [@matte1010](https://github.com/matte1010)
 
 # Folder Contents
 - WorkoutDiary.xcodeproj: Xcode project file for building and running the program.
