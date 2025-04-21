@@ -20,4 +20,4 @@ Welcome to my project portfolio. Here you'll find a selection of individual and 
 ## Collaborative Projects 
 - [Workout Diary - Making Exercise Easier](https://github.com/arin8/arin8.github.io/tree/main/Workout-Diary): A personal fitness application to design custom workouts and track progress over time.
 
-### Created and maintained by Arin Rahim.
+# Created and maintained by Arin Rahim.
