@@ -138,10 +138,12 @@ html {
     background-color: #f0f0f0;
     text-align: center;
 }
+
 .contacts-section h2 {
     font-size: 32px;
     margin-bottom: 20px;
 }
+
 .contacts-section p {
     max-width: 800px;
     margin: 0 auto;
